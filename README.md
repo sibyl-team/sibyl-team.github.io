@@ -1,2 +1,2 @@
-# sibyl-team.github.io
+# jekyll home page
 home page of the sibyl team
