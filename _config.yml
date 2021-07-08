@@ -1,1 +1,52 @@
-theme: jekyll-theme-tactile
+baseurl: ""
+permalink: pretty
+title: 'Sibyl Team home page'
+
+google_analytics_id: ""
+
+homepage:
+  show_call_box: true
+
+logo:
+  mobile: "images/logo/sibyl_team_logo_small.png"
+  desktop: "images/logo/sibyl_team_logo_small.png"
+  desktop_height: "36px"
+
+footer:
+  copyright_text: 'home page of Sibyl Team'
+
+seo:
+  meta_og_title: "Sibyl Team home page"
+  meta_og_type: "website"
+  meta_og_url: "https://github.com/sibyl-team"
+  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_description: "Sibyl Team, team of statistical physicist for statistical inference problems."
+  meta_twitter_card: "summary"
+  meta_twitter_site: "sybil85270483"
+  meta_twitter_creator: "sybil85270483"
+
+collections:
+  services:
+    output: true
+  team:
+    output: true
+
+sass:
+  indentWidth: 4
+  style: compact # possible values: nested expanded compact compressed
+  precision: 10
+
+plugins:
+  - jekyll-environment-variables
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - LICENSE
+  - README.md

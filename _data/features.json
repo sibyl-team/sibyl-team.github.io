@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Epidemic Reconstruction",
+    "description": "Inference of epidemic chain of contagion",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Risk Tracing",
+    "description": "Digital contact tracing based on risk assessments",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Inference of Epidemic Parameters",
+    "description": "Statistical inference of the parameters that govern the epidemic spreading process.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
