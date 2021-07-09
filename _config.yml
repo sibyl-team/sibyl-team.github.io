@@ -28,10 +28,11 @@ seo:
   meta_twitter_creator: "sibylteam"
 
 collections:
-  team2:
-    output: true
   services:
     output: true
+  team:
+    output: true
+
 
 
 sass:

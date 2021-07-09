@@ -20,7 +20,7 @@ bodyClass: page-team-list
 
 <div class="container pt-6 pb-6">
     <div class="row">
-        {% assign promoted_teams = site.team2 | where: "promoted", true | sort: "weight" %}
+        {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
         {% for team in promoted_teams %}
         <div class="col-12 col-md-6 mb-2">
             <div class="team team-summary team-summary-large">
@@ -42,7 +42,7 @@ bodyClass: page-team-list
         {% endfor %}
     </div>
     <div class="row pt-6 pb-6">
-        {% assign teams = site.team2 | where: "promoted", empty | sort: "title" %}
+        {% assign teams = site.team | where: "promoted", empty | sort: "title" %}
         {% for team in teams %}
         <div class="col-12 col-md-4 mb-3">
             <div class="team team-summary">
