@@ -1,6 +1,7 @@
 baseurl: ""
 permalink: pretty
 title: 'Sibyl Team home page'
+url: "https://sibyl-team.github.io/"
 
 #google_analytics_id: "G-ESF6FB8WNX"
 google_analytics_id: ""
