@@ -2,7 +2,8 @@ baseurl: ""
 permalink: pretty
 title: 'Sibyl Team home page'
 
-google_analytics_id: "G-ESF6FB8WNX"
+#google_analytics_id: "G-ESF6FB8WNX"
+google_analytics_id: ""
 
 homepage:
   show_call_box: true
