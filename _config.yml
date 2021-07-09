@@ -41,6 +41,9 @@ sass:
 plugins:
   - jekyll-environment-variables
 
+include:
+  - _team
+
 exclude:
   - Gemfile
   - Gemfile.lock
