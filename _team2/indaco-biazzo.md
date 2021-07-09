@@ -1,12 +1,10 @@
 ---
 title: "Indaco Biazzo"
 date: 2021-07-08
-draft: false
 image: "images/team/indaco_biazzo.jpg"
 jobtitle: "Researcher"
 linkedinurl: "www.indacobiazzo.me"
 weight: 7
-#promoted: true
 layout: team
 ---
 

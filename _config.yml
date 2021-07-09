@@ -30,7 +30,7 @@ seo:
 collections:
   services:
     output: true
-  team:
+  team2:
     output: true
 
 sass:
@@ -40,9 +40,6 @@ sass:
 
 plugins:
   - jekyll-environment-variables
-
-include:
-  - _team
 
 exclude:
   - Gemfile
