@@ -1,11 +1,17 @@
 ---
 layout: default
 ---
-
 <div class="container pb-6 pt-6 pt-md-10 pb-md-10">
   <div class="row justify-content-start">
     <div class="col-12 col-md-8">
       <div class="team team-single">
+        {% if page.image %}
+        <div class="team team-summary">
+          <div class="team-image-single">
+              <img alt="{{ page.title }}" class="img-fluid mb-1" src="{{ page.image | relative_url }}" />
+          </div>
+          {% endif %}
+        </div>
         <h1 class="title">{{page.title}}</h1>
         <div class="content">{{content}}</div>
       </div>

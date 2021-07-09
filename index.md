@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Sibyl Team.
+# Sibyl Team
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+Epidemic statistical inference team. Statistical inference and machine learning for epidemic reconstruction, risk assessment, and parameter estimations, and more... \[BETTER?\]

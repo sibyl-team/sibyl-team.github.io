@@ -22,8 +22,8 @@ seo:
   meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Sibyl Team, team of statistical physicist for statistical inference problems."
   meta_twitter_card: "summary"
-  meta_twitter_site: "sybil85270483"
-  meta_twitter_creator: "sybil85270483"
+  meta_twitter_site: "sibylteam"
+  meta_twitter_creator: "sibylteam"
 
 collections:
   services:
@@ -38,6 +38,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
+  - jekyll-twitter-plugin
 
 exclude:
   - Gemfile
