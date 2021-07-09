@@ -28,10 +28,11 @@ seo:
   meta_twitter_creator: "sibylteam"
 
 collections:
-  services:
-    output: true
   team2:
     output: true
+  services:
+    output: true
+
 
 sass:
   indentWidth: 4
