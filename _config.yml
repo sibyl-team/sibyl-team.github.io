@@ -1,8 +1,8 @@
-baseurl: ""
+baseurl: "https://sibyl-team.github.io/"
 permalink: pretty
 title: 'Sibyl Team home page'
 
-google_analytics_id: ""
+google_analytics_id: "G-ESF6FB8WNX"
 
 homepage:
   show_call_box: true
@@ -38,7 +38,7 @@ sass:
 
 plugins:
   - jekyll-environment-variables
-  
+
 exclude:
   - Gemfile
   - Gemfile.lock
