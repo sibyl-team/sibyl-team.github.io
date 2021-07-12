@@ -30,7 +30,7 @@ bodyClass: page-home
     <div class="row justify-content-start">
       <div class="col-8 col-md-8">
         <div class="row justify-content-start">
-          {% assign posts = site.services | sort: "weight" %}
+          {% assign posts = site.posts | sort: "date" %}
           {% for post in posts %}
             <div class="col-8 col-md-6 mb-2">
             <div class="service service-summary">
