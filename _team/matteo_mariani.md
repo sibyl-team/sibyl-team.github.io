@@ -5,7 +5,7 @@ promoted: true
 image: "images/team/matteo_mariani.jpg"
 jobtitle: "PhD Student"
 personalurl: "https://www.disat.polito.it/personale/scheda/(nominativo)/matteo.mariani"
-weight: 
+weight: 7
 layout: team
 ---
 
