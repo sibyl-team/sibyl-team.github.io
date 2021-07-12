@@ -4,6 +4,7 @@ date: 2021-07-30
 featured: true
 layout: service
 authors: sibyl-team
+draft: true
 ---
 
 Since the beginning of the SARS-CoV-2 pandemic, the strategy of tracking, testing, and isolating people who had contact with COVID-19 positive individuals has proven effective in mitigating the epidemic’s spreading.

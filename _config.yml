@@ -32,6 +32,10 @@ collections:
   team:
     output: true
 
+#Publishing defaults
+show_drafts: false
+future: false
+timezone: Europe/London
 
 sass:
   indentWidth: 4
