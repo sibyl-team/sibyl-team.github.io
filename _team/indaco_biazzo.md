@@ -1,6 +1,7 @@
 ---
 title: "Indaco Biazzo"
-date: 2020-07-08
+date: 2018-12-20T13:44:23+10:00
+promoted: true
 image: "images/team/indaco_biazzo.jpg"
 jobtitle: "Researcher"
 linkedinurl: "www.indacobiazzo.me"
