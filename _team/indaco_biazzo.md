@@ -4,7 +4,7 @@ date: 2018-12-20T13:44:23+10:00
 promoted: true
 image: "images/team/indaco_biazzo.jpg"
 jobtitle: "Researcher"
-personalurl: "www.indacobiazzo.me"
+personalurl: "http://www.indacobiazzo.me"
 weight: 7
 layout: team
 ---
