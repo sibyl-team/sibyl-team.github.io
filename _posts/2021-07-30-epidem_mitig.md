@@ -1,6 +1,6 @@
 ---
 title: "Epidemic Tracing for Epidemic Mitigation"
-date: 2020-07-01
+date: 2021-07-30
 featured: true
 layout: service
 authors: sibyl-team
