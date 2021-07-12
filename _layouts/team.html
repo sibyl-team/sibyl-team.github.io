@@ -12,7 +12,13 @@ layout: default
           </div>
           {% endif %}
         </div>
-        <h1 class="title">{{page.title}}</h1>
+        <h1 class="title">{{page.title}} 
+        </h1>
+        <h4>
+          {% if page.personalurl %}
+            <a target="_blank" href="{{ page.personalurl }}">{{page.personalurl | truncatewords: 4 | remove: "www."}}</a>
+          {% endif %}
+        </h4>
         <div class="content">{{content}}</div>
       </div>
     </div>
