@@ -2,7 +2,7 @@
 title: "Matteo Mariani"
 date: 2018-12-20T13:44:23+10:00
 promoted: true
-image: "images/team/matteo_mariani.png"
+image: "images/team/matteo_mariani.jpg"
 jobtitle: "PhD Student"
 personalurl: "https://www.disat.polito.it/personale/scheda/(nominativo)/matteo.mariani"
 weight: 
