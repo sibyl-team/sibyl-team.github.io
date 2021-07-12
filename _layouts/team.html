@@ -16,7 +16,7 @@ layout: default
         </h1>
         <h4>
           {% if page.personalurl %}
-            <a target="_blank" href="{{ page.personalurl }}">{{page.personalurl | truncatewords: 4 | remove: "www."}}</a>
+            <a target="_blank" href="{{ page.personalurl }}">{{page.personalurl | truncatewords: 4 | remove: "www."| remove: "https://"| remove: "http://"}}</a>
           {% endif %}
         </h4>
         <div class="content">{{content}}</div>
