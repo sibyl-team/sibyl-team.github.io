@@ -1,6 +1,6 @@
 ---
 title: "Luca Dall'Asta"
-date: "2021-07-14 12:20:19"
+date: 2021-07-14 12:20:19
 promoted: true
 image: "images/team/luca_dallasta.png"
 jobtitle: "Associate Professor at the Politecnico of Turin"
