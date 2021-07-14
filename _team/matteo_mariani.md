@@ -5,6 +5,7 @@ promoted: true
 image: "images/team/matteo_mariani.jpg"
 jobtitle: "PhD Student"
 personalurl: "https://www.disat.polito.it/personale/scheda/(nominativo)/matteo.mariani"
+where: "Polytechnic University of Turin"
 weight: 7
 layout: team
 ---

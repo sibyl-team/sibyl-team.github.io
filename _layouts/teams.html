@@ -31,7 +31,7 @@ bodyClass: page-team-list
                 {% endif %}
                 <div class="team-meta">
                     <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
-                    <p class="team-description">{{ team.jobtitle }}</p>
+                    <p class="team-description">{{ team.jobtitle }} -- {{team.where}}</p>
                     {% if team.personalurl %}
                     <a target="_blank" href="{{ team.personalurl }}">{{team.personalurl | remove: "www."| remove: "https://"| remove: "http://"| truncate: 40 }}</a>
                     {% endif %}

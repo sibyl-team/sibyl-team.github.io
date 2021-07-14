@@ -5,6 +5,7 @@ promoted: true
 image: "images/team/indaco_biazzo.jpg"
 jobtitle: "Researcher"
 personalurl: "http://www.indacobiazzo.me"
+where: "Polytechnic University of Turin"
 weight: 7
 layout: team
 ---

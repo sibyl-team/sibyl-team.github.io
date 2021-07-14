@@ -4,6 +4,7 @@ date: 2021-07-14T12:49:23+10:00
 promoted: true
 image: "images/team/fabiomazza.jpg"
 jobtitle: "PhD student"
+where: "Polytechnic University of Turin"
 personalurl: "https://www.disat.polito.it/it/personale/scheda/(nominativo)/fabio.mazza"
 weight: 7
 layout: team
