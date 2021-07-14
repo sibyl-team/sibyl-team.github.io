@@ -4,7 +4,7 @@ date: "2021-07-14 12:20:19"
 promoted: true
 image: "images/team/luca_dallasta.png"
 jobtitle: "Associate Professor at the Politecnico of Turin"
-personalurl: 
+personalurl: "https://www.disat.polito.it/personale/scheda/(nominativo)/luca.dallasta"
 weight: 7
 layout: team
 ---
