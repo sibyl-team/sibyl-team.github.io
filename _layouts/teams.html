@@ -33,7 +33,7 @@ bodyClass: page-team-list
                     <h2 class="team-name"><a href="{{ team.url | relative_url }}">{{ team.title }}</a></h2>
                     <p class="team-description">{{ team.jobtitle }}</p>
                     {% if team.personalurl %}
-                    <a target="_blank" href="{{ team.personalurl }}">{{team.personalurl | truncate: 20 | remove: "www."| remove: "https://"| remove: "http://"}}</a>
+                    <a target="_blank" href="{{ team.personalurl }}">{{team.personalurl | remove: "www."| remove: "https://"| remove: "http://"| truncate: 40 }}</a>
                     {% endif %}
                 </div>
                 <div class="team-content">{{ team.content | truncate: 120 }}</div>
