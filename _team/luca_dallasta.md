@@ -6,7 +6,7 @@ image: "images/team/luca_dallasta.png"
 jobtitle: "Associate Professor"
 where: "Polytechnic University of Turin"
 personalurl: "https://www.disat.polito.it/personale/scheda/(nominativo)/luca.dallasta"
-weight: 7
+weight: 100
 layout: team
 ---
 

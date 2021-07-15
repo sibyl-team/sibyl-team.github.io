@@ -6,7 +6,7 @@ image: "images/team/alessandro_ingrosso.jpg"
 jobtitle: "Senior Postdoctoral Fellow"
 personalurl: "https://www.ictp.it/phonebook/person?id=3704"
 where: "The Abdus Salam International Centre for Theoretical Physics - ICTP, Trieste"
-weight: 7
+weight: 100
 layout: team
 ---
 

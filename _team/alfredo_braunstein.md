@@ -6,7 +6,7 @@ image: "images/team/alfredo_braunstein.png"
 jobtitle: "Associate Professor"
 where: "Polytechnic University of Turin"
 personalurl: "https://staff.polito.it/alfredo.braunstein"
-weight: 7
+weight: 100
 layout: team
 ---
 
