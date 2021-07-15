@@ -31,6 +31,9 @@ collections:
     output: true
   team:
     output: true
+  publications:
+    output: true
+    permalink: /:collection/:name
 
 #Publishing defaults
 show_drafts: false
