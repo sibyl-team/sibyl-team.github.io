@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Sibyl Team
 
-Statistical inference team. Development of statistical and machine learning techniques for inference problems in dynamic processes: epidemic reconstruction, risk assessment, epidemic parameters estimations and more.
+Statistical inference team. Development of statistical and machine learning techniques to solve inference problems in dynamic processes: epidemic reconstruction, risk assessment, epidemic parameters estimations and more.
