@@ -9,15 +9,16 @@ layout: default
         <h1 class="mt-4">Publications</h1>
         {% assign publications = site.publications | sort: "year" | reverse %}
         {% for pub in publications %}
-        <div class="team-name"><a href="{{ pub.doi }}" target="_blank">{{ pub.title }}</a></div>
+        <h3 class="pubtitle"><a href="{{ pub.doi }}" target="_blank">{{ pub.title }}</a></h3>
         <div class="pubauthors">{{ pub.authors }}</div>
         <div class="pubinfo">
             {{ pub.publication }}, 
             {{ pub.year}}, 
             <a href="{{ pub.preprinturl }}" target="_blank">ArXiv</a>
         </div>
-        </div>
+        
         {% endfor %}
+      </div>
 
       </div>
   </div>
