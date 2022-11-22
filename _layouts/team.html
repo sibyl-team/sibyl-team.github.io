@@ -19,7 +19,15 @@ layout: default
             <a target="_blank" href="{{ page.personalurl }}">{{page.personalurl | truncatewords: 4 | remove: "www."| remove: "https://"| remove: "http://"}}</a>
           {% endif %}
         </h4>
+
         <div class="content">{{content}}</div>
+        <h4>
+          {% if page.cvurlrel %}
+          <a target="_blank" href="{{ page.cvurlrel | relative_url}}">{{ page.cvtitle }}</a>
+          {% elsif page.cvurl %}
+          <a target="_blank" href="{{ page.cvurl }}">{{ page.cvtitle }}</a>
+          {% endif %}
+        </h4>
       </div>
     </div>
   </div>
