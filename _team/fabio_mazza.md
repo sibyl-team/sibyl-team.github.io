@@ -5,7 +5,7 @@ promoted: true
 image: "images/team/fabiomazza.jpg"
 jobtitle: "PhD student"
 where: "Polytechnic University of Turin"
-personalurl: "http://dottorato.polito.it/fis/en/students#276892"
+personalurl: "fabmazz.github.io"
 weight: 7
 cvurl: "https://github.com/fabmazz/curriculum/raw/main/cv_fabio_mazza.pdf"
 cvtitle: "Curriculum Vitae"
